@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D Travel", "3D Travel.csproj", "{D189AE0C-DDDB-6005-3EF7-2AC2AA7A354E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D Travel.Editor", "3D Travel.Editor.csproj", "{22131C15-ED9D-53F2-2F64-D9D2781E1572}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D189AE0C-DDDB-6005-3EF7-2AC2AA7A354E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D189AE0C-DDDB-6005-3EF7-2AC2AA7A354E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D189AE0C-DDDB-6005-3EF7-2AC2AA7A354E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D189AE0C-DDDB-6005-3EF7-2AC2AA7A354E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22131C15-ED9D-53F2-2F64-D9D2781E1572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22131C15-ED9D-53F2-2F64-D9D2781E1572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22131C15-ED9D-53F2-2F64-D9D2781E1572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22131C15-ED9D-53F2-2F64-D9D2781E1572}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
