@@ -23,9 +23,6 @@ The motion states are:
 (4) Strafe left
 (5) Strafe right
 
-![Resulting images augmented in the reality](https://github.com/adityaiiitv/Iron-Man-Voice-Image-Search/blob/master/2.PNG)
-
-
 The Manipulation states are:
 (1) Open
 (2) Touching
